@@ -20,7 +20,7 @@ int main()
         {
             printf("Player 2 Venceu essa rodada");
         }
-        else if (strcmp(player2, "Pedra") == 0)
+        else if (strcmp(player2, "Pedrsa") == 0)
         {
             printf("Player 1 Venceu essa rodada");
         }
